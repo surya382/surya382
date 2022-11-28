@@ -17,7 +17,11 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT JS,NODE JS,MongoDB**
 
+- ⚡ Hobbies  Fishing
+
 - 📫 How to reach me **suryawanshirahul382@gmail.com**
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 
