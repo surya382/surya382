@@ -58,7 +58,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surya382" alt="surya382" /></p>
  
  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=surya382&bg_color=00001c&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  
 
  
