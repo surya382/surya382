@@ -53,11 +53,11 @@
 <h3 align="left">📊 My Github Stats:</h3>
 
 <div display="block">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya382&show_icons=true&locale=en&layout=compact" alt="surya382" /></p>
-
-<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=surya382&show_icons=true&locale=en" alt="surya382" /></p>
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya382&count_private=true)
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surya382" alt="surya382" /></p>
  
