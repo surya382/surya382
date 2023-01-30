@@ -59,7 +59,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya382&count_private=true)
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surya382" alt="surya382" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surya382" alt="surya382"/></p>
  
  
  
