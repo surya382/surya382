@@ -1,8 +1,8 @@
 
 
-<img width="100%" src="https://user-images.githubusercontent.com/107528641/229331886-3e30f67f-a228-475f-94d1-85cfb3f97278.png"/>
+<img width="100%" height="400px" src="https://user-images.githubusercontent.com/107528641/229331886-3e30f67f-a228-475f-94d1-85cfb3f97278.png"/>
 
-<h1 align="center">Hi 👋, I'm Rahul Suryawanshi</h1>
+<h1 align="center">Hi 👋, I'am Rahul Suryawanshi</h1>
 
 <h3 align="center">A passionate Full Stack Web developer skilled in MERN stack who likes to work in collaborative environment and always ready for learning new things 😃. I focus on writing clean, elegant and Developer friendly code ✨.</h3>
 
