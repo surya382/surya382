@@ -1,4 +1,5 @@
-[![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://surya382.github.io)
+
+<img width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Rahul Suryawanshi</h1>
 
