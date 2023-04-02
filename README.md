@@ -1,6 +1,7 @@
 
 
-<img width="100%" height="400px" src="https://user-images.githubusercontent.com/107528641/229331886-3e30f67f-a228-475f-94d1-85cfb3f97278.png"/>
+
+<img width="100%" height="400px" src="https://user-images.githubusercontent.com/107528641/229332376-5eb5dd2e-caed-4b5e-8243-58f184249f27.gif"/>
 
 <h1 align="center">Hi 👋, I'am Rahul Suryawanshi</h1>
 
