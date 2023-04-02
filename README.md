@@ -1,5 +1,6 @@
 
-<img width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/107528641/229331886-3e30f67f-a228-475f-94d1-85cfb3f97278.png"/>
 
 <h1 align="center">Hi 👋, I'm Rahul Suryawanshi</h1>
 
